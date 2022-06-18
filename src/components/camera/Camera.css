@@ -1,0 +1,16 @@
+#video-container {
+    width: 100vw;
+    margin-top: 2vh;
+    height: 100vh;
+}
+
+video {
+    width: 90vw;
+    border-radius: 25px;
+    height: 53vh;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    object-fit: cover;
+    object-position: center;
+}

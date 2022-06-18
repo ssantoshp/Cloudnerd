@@ -1,0 +1,12 @@
+#static-image {
+    width: 90vw;
+    margin-top: 2vh;
+    height: 53vh;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
