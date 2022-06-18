@@ -1,9 +1,3 @@
-![Web Bootstrap header](assets/header.jpg)
-
-[Lobe](http://lobe.ai/) is a free, easy to use app that has everything you need to bring your machine learning ideas to life.
-Web Bootstrap takes the machine learning model created in Lobe, and adds it to a project in the browser that uses
-[React](https://reactjs.org), [Create React App](https://github.com/facebook/create-react-app), [TypeScript](https://www.typescriptlang.org/), and [TensorFlow.js](https://www.tensorflow.org/js).
-
 ## Get Started
 
 1. Clone or download the project on your computer and install [Yarn](https://yarnpkg.com/). Yarn is the software package that will install all the dependencies and make sure the code automatically reloads when changes are made.
