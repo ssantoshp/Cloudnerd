@@ -1,0 +1,45 @@
+.source-item-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 18px;
+    background-color: rgba(220, 220, 220, 0);
+
+    
+}
+.source-item-container:first-child {
+    margin-top: 10px;
+    background-color: rgba(220, 220, 220, 0);
+    
+}
+
+.source-device {
+    font-size: 10px;
+    font-family: 'Press Start 2P', cursive;;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    color: #ffffff;
+    opacity: 0.6;
+    margin-left: 8px;
+    margin-right: 44px;
+
+}
+
+.source-selected {
+    opacity: 1;
+    background: rgba(204, 204, 204, 0);
+    
+}
+
+.source-radio-button {
+    margin-right: 8px;
+    height: 24px;
+    width: 24px;
+    
+    
+
+}

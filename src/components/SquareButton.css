@@ -1,0 +1,17 @@
+.square-button {
+    border-radius: 10px;
+    border-style: outset;
+    border-top-color: hsl(223, 96%, 63%);
+    border-bottom-color: #2b52ff;
+    border-right-color: #2b52ff;
+    border-left-color:#2b52ff;
+    background: rgb(8,187,255);
+    background: linear-gradient(180deg, rgba(8,187,255,1) 0%, rgba(72,131,251,1) 44%, rgba(0,16,226,1) 100%);
+    width: 35px;
+    min-width: auto;
+    height: 35px;
+    padding: 0!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

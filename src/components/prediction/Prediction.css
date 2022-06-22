@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.prediction-container {
+    border-radius: 10px;
+    border-style: outset;
+    border-top-color: hsl(0, 0%, 73%);
+    border-bottom-color: #a0a0a0;
+    border-right-color: #a0a0a0;
+    border-left-color: #a0a0a0;
+    font-weight: 500;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 20px;
+    padding: 2vmin;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    width: 80%;
+    font-size: 2vmin;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+}
