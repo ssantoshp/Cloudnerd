@@ -3,3 +3,4 @@ node_modules
 venv
 .idea
 model_training/data/*
+model_training/best_model/*
